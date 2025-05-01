@@ -7,7 +7,7 @@
 
 O código-fonte completo do projeto está disponível como um arquivo ZIP. Clique no link abaixo para fazer o download:
 
-[Baixar Código ZIP](https://github.com/rafaelafhs/light-it-up/blob/main/LIGHT_IT_UP.zip)
+[Baixar Código ZIP](https://github.com/rafaelafhs/light-it-up/blob/main/LIGHT_IT_UP_.zip)
 
 ---
 
