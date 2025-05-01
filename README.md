@@ -3,6 +3,14 @@
 **Light It Up** é um jogo educativo sobre sustentabilidade energética, que está a ser criado durante o Shift Appens 2025. O objetivo é iluminar uma cidade através da resolução de puzzles em labirintos escuros, usando recursos limitados e decisões conscientes sobre energia.
 
  ---
+ ## Código Compactado
+
+O código-fonte completo do projeto está disponível como um arquivo ZIP. Clique no link abaixo para fazer o download:
+
+[Baixar Código ZIP](https://github.com/seu-usuario/seu-repositorio/raw/main/nome-do-arquivo.zip)
+
+---
+
  ## Repositório do Projeto
  Este repositório irá conter o código fonte do jogo, desenvolvido em **Processing**.
  
