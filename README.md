@@ -36,7 +36,7 @@
 
 Veja os primeiros mockups do jogo, incluindo designs das personagens e cenários:
 
-![Mockup do Jogo](assets/mockup1.png)
+![loadingscreen](Identidade/loadingscreen.jpg)
 ![Personagem - Gato](assets/gato_mockup.png)
 
 Para mais detalhes, consulte a pasta "assets" no repositório.
