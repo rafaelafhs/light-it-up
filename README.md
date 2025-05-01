@@ -32,7 +32,15 @@
 2. Correr o sketch com o botão "play" + ler as instruções.
 3. As imagens e recursos devem estar na pasta 'data/'.
 
-   
+   ## Identidade Gráfica e Mockups
+
+Veja os primeiros mockups do jogo, incluindo designs das personagens e cenários:
+
+![Mockup do Jogo](assets/mockup1.png)
+![Personagem - Gato](assets/gato_mockup.png)
+
+Para mais detalhes, consulte a pasta "assets" no repositório.
+
 ## Equipa
 **Nome da equipa**: 404 girls not found
 
