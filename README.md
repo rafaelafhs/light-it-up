@@ -18,7 +18,7 @@
   **Processing** (para o desenvolvimento do jogo)
   **GitHub** (para visão, plano e entrega)
   **PixelArt** (para desenho das personagens, cenários...)
-  **dafont** (para tipografia)
+  **www.dafont.com** (para tipografia)
   
  ## Funcionalidades do jogo
 - 5 níveis com diferentes mecânicas:
