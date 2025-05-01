@@ -1,15 +1,13 @@
 # Light It Up
 
-**Light It Up** é um jogo educativo sobre sustentabilidade energética, que está a ser criado durante o Shift Appens 2025. O objetivo é iluminar uma cidade através da resolução de puzzles em labirintos escuros, usando recursos limitados e decisões consciente sobre energia.
+**Light It Up** é um jogo educativo sobre sustentabilidade energética, que está a ser criado durante o Shift Appens 2025. O objetivo é iluminar uma cidade através da resolução de puzzles em labirintos escuros, usando recursos limitados e decisões conscientes sobre energia.
 
  ---
  ## Repositório do Projeto
  Este repositório irá conter o código fonte do jogo, desenvolvido em **Processing**.
  
-  **Nota:** Este repositório está privado.
-
   ## Problema identificado
-?? A utilização excessiva e inconsciente de energia elétrica leva a desperdícios e impactos ambientais negativos. Muitas pessoas não têm noção do consumo invisível de energia nas suas rotinas diárias.
+ A utilização excessiva e inconsciente de energia elétrica leva a desperdícios e impactos ambientais negativos. Muitas pessoas não têm noção do consumo invisível de energia nas suas rotinas diárias.
 
   ## Solução Proposta
   Criar um jogo interativo onde o jogador, através de personagens divertidas, aprende a poupar energia ao iluminar uma cidade com recursos sustentáveis. A jogabilidade incentiva o jogador a tomar decisões ecológicas em tempo real, de forma estimulante e educativa.
