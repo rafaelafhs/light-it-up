@@ -37,8 +37,9 @@ Veja os primeiros imagens do jogo, incluindo designs das personagens e cenários
 
 ![Botão Principal](botão_main.png)
 ![Gato Costas](gato_costas.png)
-Para todas as imagens do jogo para já criadas:
-[Imagens do Jogo](https://github.com/seu-usuario/seu-repositorio/tree/main/imagens)
+
+Para acessar todas as imagens do jogo  já criadas:
+[Imagens do Jogo](https://github.com/rafaelafhs/light-it-up/tree/main/Identidade)
 
 
 ### Pré-requisitos
