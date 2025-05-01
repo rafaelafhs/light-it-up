@@ -33,11 +33,25 @@
 3. As imagens e recursos devem estar na pasta 'data/'.
 
 ## Identidade Gráfica e Imagens do Jogo
-
 Veja os primeiros imagens do jogo, incluindo designs das personagens e cenários:
 
 ![Botão Principal](botão_main.png)
 ![Gato Costas](gato_costas.png)
+
+### Pré-requisitos
+- **Processing**: Para rodar o código, você precisará do ambiente de desenvolvimento **Processing**.
+  - Baixe e instale o Processing [aqui](https://processing.org/download/).
+  
+ 
+### Instruções para Execução
+1. **Abra o arquivo principal**:
+   - Baixe ou clone este repositório.
+   - Abra o arquivo `light_it_up.pde` no **Processing**.
+2. **Executar o Jogo**:
+   - Clique no botão "Play" no Processing para rodar o jogo.
+   - Siga as instruções na tela para jogar.
+3. **Estrutura de Pastas**:
+   - As imagens e recursos adicionais devem estar na pasta `data/`. Certifique-se de que os arquivos necessários estão nesta pasta antes de rodar o jogo.
 
 
 ## Equipa
