@@ -78,6 +78,10 @@ Para acessar todas as imagens do jogo  já criadas:
 ## Participação em desafios personalizados
 Não
 
+## Licença
+
+Este projeto está licenciado sob a **Eclipse Public License v3.0**. Veja mais detalhes no arquivo [LICENSE](./LICENSE).
+
 ---
 
 Projeto criado exclusivamente para o Shift Appens 2025.
