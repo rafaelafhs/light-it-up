@@ -43,10 +43,7 @@ O código-fonte completo do projeto está disponível como um arquivo ZIP. Cliqu
 ## Identidade Gráfica e Imagens do Jogo
 Veja os primeiros imagens do jogo, incluindo designs das personagens e cenários:
 
-![Botão Principal](botão_main.png)
-![Gato Costas](gato_costas.png)
-
-Para acessar todas as imagens do jogo  já criadas:
+Para visualizar todas as imagens criadas até ao momento para o jogo:
 [Imagens do Jogo](https://github.com/rafaelafhs/light-it-up/tree/main/Identidade)
 
 
