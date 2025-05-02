@@ -77,7 +77,7 @@ Não
 
 ## Licença
 
-Este projeto está licenciado sob a **Eclipse Public License v3.0**. Veja mais detalhes no arquivo [LICENSE](https://github.com/rafaelafhs/light-it-up/blob/main/LICENSE.md).
+Este projeto está licenciado sob a **Eclipse Public License**. Veja mais detalhes no arquivo [LICENSE](https://github.com/rafaelafhs/light-it-up/blob/main/LICENSE.md).
 
 ---
 
